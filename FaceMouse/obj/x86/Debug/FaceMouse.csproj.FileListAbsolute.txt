@@ -1,0 +1,24 @@
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\bin\Debug\FaceMouse.exe
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\bin\Debug\FaceMouse.pdb
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\bin\Debug\TouchlessLib.dll
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.csprojResolveAssemblyReference.cache
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Form1.resources
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Properties.Resources.resources
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.csproj.GenerateResource.Cache
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.exe
+c:\users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.pdb
+C:\Users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Form2.resources
+C:\Users\gieroj\documents\visual studio 2010\Projects\FaceMouse\FaceMouse\bin\Debug\HotkeyLib.dll
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.exe
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.pdb
+I:\Projects\FaceMouse\FaceMouse\bin\Debug\FaceMouse.exe
+I:\Projects\FaceMouse\FaceMouse\bin\Debug\FaceMouse.pdb
+I:\Projects\FaceMouse\FaceMouse\bin\Debug\HotkeyLib.dll
+I:\Projects\FaceMouse\FaceMouse\bin\Debug\TouchlessLib.dll
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.csprojResolveAssemblyReference.cache
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Form1.resources
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Form2.resources
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.Properties.Resources.resources
+I:\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.csproj.GenerateResource.Cache
+C:\Users\gieroja\Documents\Visual Studio 2013\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.exe
+C:\Users\gieroja\Documents\Visual Studio 2013\Projects\FaceMouse\FaceMouse\obj\x86\Debug\FaceMouse.pdb
